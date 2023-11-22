@@ -1,2 +1,2 @@
 # PdfBaslikArayuz
-Kullanılan Modül Adları: pdptitle , PyPDF2
+Kullanılan Modül Adları: pdftitle , PyPDF2
